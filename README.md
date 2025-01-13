@@ -23,8 +23,9 @@ This project implements an Airflow DAG to automate the process of scraping and u
 
 2.  **Clone this repository:**
 
-      ```bash
-      git clone [https://github.com/your-username/finn-scrapper.git](https://github.com/your-username/finn-scrapper.git)
+    bash
+      ```
+      git clone [https://github.com/HIMU-0010/Real-estate_ad_scraping_project_using_Docker_AirFlow.git]
       ```
 
 **Configuration:**
